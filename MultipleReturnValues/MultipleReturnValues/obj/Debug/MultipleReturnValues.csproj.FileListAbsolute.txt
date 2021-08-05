@@ -1,0 +1,7 @@
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\bin\Debug\MultipleReturnValues.exe.config
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\bin\Debug\MultipleReturnValues.exe
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\bin\Debug\MultipleReturnValues.pdb
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\obj\Debug\MultipleReturnValues.csproj.AssemblyReference.cache
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\obj\Debug\MultipleReturnValues.csproj.CoreCompileInputs.cache
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\obj\Debug\MultipleReturnValues.exe
+C:\Users\smomi\source\repos\MultipleReturnValues\MultipleReturnValues\obj\Debug\MultipleReturnValues.pdb
